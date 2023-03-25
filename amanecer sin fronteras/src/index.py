@@ -26,6 +26,6 @@ def main():
     for extentions in extentionsList:
         bot.load_extension(extentions)
 
-    bot.run("MTA3Njk5NDI3MjkzMjQxMzQ1MA.GIx9rF.PTci72j6fGtfVxtsC4meu12k5kqHtclbGhI1Ho")
+    bot.run("HERE THE BOT TOKEN")
 
 if __name__ == "__main__": main()
