@@ -1,7 +1,7 @@
 {
-    "CaC server": [1061170884037050408],
-    "Executor rol ID": 1061171050521571340,
-    "Aplication ID": 1061172325438992474,
+    "CaC server": [9999999999999999],
+    "Executor rol ID": 9999999999999999,
+    "Aplication ID": 9999999999999999,
 
     "Number of messages to send per channel": 25,
     "Number channels to create": 200,
@@ -12,5 +12,5 @@
     "Role color": "#000000",
 
     "Message": "@everyone nuked",
-    "Invite":"https://discord.com/api/oauth2/authorize?client_id=1076994272932413450&permissions=8&scope=bot"
+    "Invite":"https://discord.com/api/oauth2/authorize?client_id=9999999999999999&permissions=8&scope=bot"
 }
