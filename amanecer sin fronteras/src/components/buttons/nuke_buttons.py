@@ -43,7 +43,7 @@ class NukeButtons(nextcord.ui.View):
         
         nuke_embed = Embed(
             title = "🛠️ |Seguimiendo del comando /nuke ",
-            description = "⏳| Eliminando emojis...",
+            description = "⏳| Eliminando canales...",
             color = Color.yellow(),
             timestamp = datetime.datetime.now())
         
@@ -51,10 +51,6 @@ class NukeButtons(nextcord.ui.View):
         await message.edit(view = None, embed = nuke_embed)
         
         start_time = time.time()
-        
-        emojis_count = await self.actions.delete_all_emojis(self.guild)
-        nuke_embed = CreateNukeEmbed(nuke_embed, 1, emojis_count)
-        await message.edit(embed = nuke_embed)
         
         channels_deleted_count = await self.actions.delete_all_chanells(self.guild)
         nuke_embed = CreateNukeEmbed(nuke_embed, 2, channels_deleted_count)
